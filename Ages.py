@@ -1,0 +1,5 @@
+print('Hello, how old are you two?')
+age = input()
+age2 = input()
+BothAges=int(age) + int(age2)
+print('do you want to hear interesting fact? the sum of your ages is ' + str(BothAges))
